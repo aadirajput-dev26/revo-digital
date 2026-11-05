@@ -1,0 +1,724 @@
+{
+  "Navbar": [
+    {
+      "tag": "span",
+      "idx": 0,
+      "text": "Home"
+    },
+    {
+      "tag": "span",
+      "idx": 1,
+      "text": "Products"
+    },
+    {
+      "tag": "span",
+      "idx": 2,
+      "text": "Customization"
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "How It Works"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "FAQ"
+    },
+    {
+      "tag": "span",
+      "idx": 5,
+      "text": "RevoDigital"
+    },
+    {
+      "tag": "span",
+      "idx": 6,
+      "text": "Make Every Connection Count."
+    },
+    {
+      "tag": "span",
+      "idx": 7,
+      "text": "WhatsApp"
+    },
+    {
+      "tag": "span",
+      "idx": 8,
+      "text": "Get a Quote"
+    }
+  ],
+  "Hero": [
+    {
+      "tag": "span",
+      "idx": 0,
+      "text": "Smart Contactless Experiences"
+    },
+    {
+      "tag": "span",
+      "idx": 1,
+      "text": "Trusted by 2,400+ businesses"
+    },
+    {
+      "tag": "span",
+      "idx": 2,
+      "text": "Make Every Connection Count."
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "Smarter ways to collect customer reviews and share your professional identity. Discover contactless experiences designed for modern businesses."
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Explore Products"
+    },
+    {
+      "tag": "span",
+      "idx": 5,
+      "text": "Get in Touch"
+    },
+    {
+      "tag": "span",
+      "idx": 6,
+      "text": "Customer rating"
+    },
+    {
+      "tag": "span",
+      "idx": 7,
+      "text": "Tap &amp; Scan"
+    },
+    {
+      "tag": "span",
+      "idx": 8,
+      "text": "No app needed"
+    },
+    {
+      "tag": "span",
+      "idx": 9,
+      "text": "QR backup"
+    },
+    {
+      "tag": "span",
+      "idx": 10,
+      "text": "REVO STUDIO — HERO ANIMATION • 00:06 LOOP"
+    },
+    {
+      "tag": "span",
+      "idx": 11,
+      "text": "Tap interaction — Scene 03/06"
+    },
+    {
+      "tag": "span",
+      "idx": 12,
+      "text": "Replace with 3D video"
+    },
+    {
+      "tag": "span",
+      "idx": 13,
+      "text": "6–7s seamless loop"
+    },
+    {
+      "tag": "span",
+      "idx": 20,
+      "text": "+128 Google reviews"
+    },
+    {
+      "tag": "span",
+      "idx": 21,
+      "text": "Café Aroma · last 30 days"
+    },
+    {
+      "tag": "span",
+      "idx": 22,
+      "text": "Profile saved in 1 tap"
+    },
+    {
+      "tag": "span",
+      "idx": 23,
+      "text": "WORKS WITH EVERY MODERN SMARTPHONE — NO APP NEEDED"
+    }
+  ],
+  "ProductsSection": [
+    {
+      "tag": "span",
+      "idx": 0,
+      "text": "02 — OUR PRODUCTS"
+    },
+    {
+      "tag": "span",
+      "idx": 1,
+      "text": "Two product families. One seamless experience."
+    },
+    {
+      "tag": "span",
+      "idx": 2,
+      "text": "Premium hardware paired with beautiful digital profiles — ready for counters, teams and professionals."
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "PRODUCT 01"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Google Review Solutions"
+    },
+    {
+      "tag": "span",
+      "idx": 5,
+      "text": "Make Sharing Experiences Effortless."
+    },
+    {
+      "tag": "span",
+      "idx": 6,
+      "text": "Give customers a convenient way to access your Google Review page through a simple tap or QR scan."
+    },
+    {
+      "tag": "span",
+      "idx": 7,
+      "text": "Smart Review Stand"
+    },
+    {
+      "tag": "span",
+      "idx": 8,
+      "text": "For reception desks &amp; billing counters. Tabletop, branded, tap + QR."
+    },
+    {
+      "tag": "span",
+      "idx": 9,
+      "text": "Salesperson Review Card"
+    },
+    {
+      "tag": "span",
+      "idx": 10,
+      "text": "Compact for staff. Collect reviews at point of billing."
+    },
+    {
+      "tag": "span",
+      "idx": 11,
+      "text": "Explore Designs"
+    },
+    {
+      "tag": "span",
+      "idx": 12,
+      "text": "Enquire Now"
+    },
+    {
+      "tag": "span",
+      "idx": 13,
+      "text": "Stand · Counter"
+    },
+    {
+      "tag": "span",
+      "idx": 14,
+      "text": "Card · Portable"
+    },
+    {
+      "tag": "span",
+      "idx": 15,
+      "text": "PRODUCT 02"
+    },
+    {
+      "tag": "span",
+      "idx": 16,
+      "text": "Personal Business Cards"
+    },
+    {
+      "tag": "span",
+      "idx": 17,
+      "text": "Your Professional Identity. One Simple Tap."
+    },
+    {
+      "tag": "span",
+      "idx": 18,
+      "text": "Share your professional identity instantly with a personalized digital business profile."
+    },
+    {
+      "tag": "span",
+      "idx": 19,
+      "text": "Photo + designation"
+    },
+    {
+      "tag": "span",
+      "idx": 20,
+      "text": "Phone &amp; WhatsApp"
+    },
+    {
+      "tag": "span",
+      "idx": 21,
+      "text": "Email"
+    },
+    {
+      "tag": "span",
+      "idx": 22,
+      "text": "Social links"
+    },
+    {
+      "tag": "span",
+      "idx": 23,
+      "text": "Save contact"
+    },
+    {
+      "tag": "span",
+      "idx": 24,
+      "text": "Tap + QR"
+    },
+    {
+      "tag": "span",
+      "idx": 25,
+      "text": "Explore Designs"
+    },
+    {
+      "tag": "span",
+      "idx": 26,
+      "text": "View Live Profile"
+    },
+    {
+      "tag": "span",
+      "idx": 27,
+      "text": "Aarav Kapoor · Consultant"
+    },
+    {
+      "tag": "span",
+      "idx": 28,
+      "text": "Tap preview — digital profile opens instantly"
+    }
+  ],
+  "GalleryCustom": [
+    {
+      "tag": "span",
+      "idx": 0,
+      "text": "03 — EXPLORE DESIGNS"
+    },
+    {
+      "tag": "span",
+      "idx": 1,
+      "text": "A design for every brand personality."
+    },
+    {
+      "tag": "span",
+      "idx": 2,
+      "text": "Same smart technology, different visual identities. Pick a style or make it entirely yours."
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "Enquire"
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "Enquire"
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "Enquire"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Enquire Now"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Enquire Now"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Enquire Now"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Enquire Now"
+    },
+    {
+      "tag": "span",
+      "idx": 5,
+      "text": "04 — CUSTOMIZATION"
+    },
+    {
+      "tag": "span",
+      "idx": 6,
+      "text": "Your Card. Your Identity. Your Design."
+    },
+    {
+      "tag": "span",
+      "idx": 7,
+      "text": "Start from a curated design or send your artwork — we handle logos, colors, typography and QR destinations."
+    },
+    {
+      "tag": "span",
+      "idx": 8,
+      "text": "Logo personalization"
+    },
+    {
+      "tag": "span",
+      "idx": 9,
+      "text": "Business branding"
+    },
+    {
+      "tag": "span",
+      "idx": 10,
+      "text": "Custom colors"
+    },
+    {
+      "tag": "span",
+      "idx": 11,
+      "text": "Typography &amp; layouts"
+    },
+    {
+      "tag": "span",
+      "idx": 12,
+      "text": "Personalized QR"
+    },
+    {
+      "tag": "span",
+      "idx": 13,
+      "text": "RevoDigital studio design"
+    },
+    {
+      "tag": "span",
+      "idx": 14,
+      "text": "Explore Existing Designs"
+    },
+    {
+      "tag": "span",
+      "idx": 15,
+      "text": "Request Custom Design"
+    },
+    {
+      "tag": "span",
+      "idx": 16,
+      "text": "BEFORE · Standard"
+    },
+    {
+      "tag": "span",
+      "idx": 17,
+      "text": "AFTER · Branded for Brew &amp; Bean"
+    }
+  ],
+  "HowAiWho": [
+    {
+      "tag": "span",
+      "idx": 0,
+      "text": "05 — HOW IT WORKS"
+    },
+    {
+      "tag": "span",
+      "idx": 1,
+      "text": "Effortless by design. No tech skills needed."
+    },
+    {
+      "tag": "span",
+      "idx": 2,
+      "text": "Review flow · at the counter"
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "Networking flow · one tap share"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "06 — AI REVIEW ASSIST · INCLUDED"
+    },
+    {
+      "tag": "span",
+      "idx": 5,
+      "text": "Make Sharing Genuine Experiences Easier."
+    },
+    {
+      "tag": "span",
+      "idx": 6,
+      "text": "Customers often know they loved you — but not what to write. AI turns a few honest notes into a natural draft they control, edit and choose to publish."
+    },
+    {
+      "tag": "span",
+      "idx": 7,
+      "text": "Customer shares a few details about their real visit"
+    },
+    {
+      "tag": "span",
+      "idx": 8,
+      "text": "AI drafts a natural review from only those details"
+    },
+    {
+      "tag": "span",
+      "idx": 9,
+      "text": "Customer edits, approves and posts to Google themselves"
+    },
+    {
+      "tag": "span",
+      "idx": 10,
+      "text": "Responsible by design: never fabricates experiences, never forces ratings, never auto-posts. The customer always stays in control."
+    },
+    {
+      "tag": "span",
+      "idx": 11,
+      "text": "How was Brew &amp; Bean?"
+    },
+    {
+      "tag": "span",
+      "idx": 12,
+      "text": "“Great oat latte, fast wifi, friendly staff…”"
+    },
+    {
+      "tag": "span",
+      "idx": 13,
+      "text": "AI draft — editable"
+    },
+    {
+      "tag": "span",
+      "idx": 14,
+      "text": "“Loved the oat latte and quick service. Perfect spot to work — will be back!”"
+    },
+    {
+      "tag": "span",
+      "idx": 15,
+      "text": "Edit"
+    },
+    {
+      "tag": "span",
+      "idx": 16,
+      "text": "Continue to Google"
+    },
+    {
+      "tag": "span",
+      "idx": 17,
+      "text": "07 — WHO IS IT FOR?"
+    },
+    {
+      "tag": "span",
+      "idx": 18,
+      "text": "Built for counters, teams and talent."
+    },
+    {
+      "tag": "span",
+      "idx": 19,
+      "text": "Google Review Solutions"
+    },
+    {
+      "tag": "span",
+      "idx": 20,
+      "text": "Personal Business Cards"
+    }
+  ],
+  "FaqFooter": [
+    {
+      "tag": "span",
+      "idx": 0,
+      "text": "08 — FAQ"
+    },
+    {
+      "tag": "span",
+      "idx": 1,
+      "text": "Everything, answered."
+    },
+    {
+      "tag": "span",
+      "idx": 2,
+      "text": "Still curious? Chat with us on WhatsApp."
+    },
+    {
+      "tag": "span",
+      "idx": 3,
+      "text": "Replies within minutes, 10am–8pm IST"
+    },
+    {
+      "tag": "span",
+      "idx": 4,
+      "text": "Chat Now"
+    },
+    {
+      "tag": "span",
+      "idx": 5,
+      "text": "ENQUIRY · ONE FORM, EVERY PRODUCT"
+    },
+    {
+      "tag": "span",
+      "idx": 6,
+      "text": "Tell us what you need. We handle the rest on WhatsApp."
+    },
+    {
+      "tag": "span",
+      "idx": 7,
+      "text": "Product &amp; variant auto-filled from the button you tapped"
+    },
+    {
+      "tag": "span",
+      "idx": 8,
+      "text": "No payment now — just design + quantity + delivery"
+    },
+    {
+      "tag": "span",
+      "idx": 9,
+      "text": "Prefilled WhatsApp message — you press send"
+    },
+    {
+      "tag": "span",
+      "idx": 10,
+      "text": "Enquire Now"
+    },
+    {
+      "tag": "span",
+      "idx": 11,
+      "text": "Smart Review Stand · Cloud White"
+    },
+    {
+      "tag": "span",
+      "idx": 12,
+      "text": "Full Name"
+    },
+    {
+      "tag": "span",
+      "idx": 13,
+      "text": "Priya Sharma"
+    },
+    {
+      "tag": "span",
+      "idx": 14,
+      "text": "WhatsApp Number"
+    },
+    {
+      "tag": "span",
+      "idx": 15,
+      "text": "Business Name"
+    },
+    {
+      "tag": "span",
+      "idx": 16,
+      "text": "Brew &amp; Bean"
+    },
+    {
+      "tag": "span",
+      "idx": 17,
+      "text": "Quantity"
+    },
+    {
+      "tag": "span",
+      "idx": 18,
+      "text": "Product Category"
+    },
+    {
+      "tag": "span",
+      "idx": 19,
+      "text": "Review Solutions"
+    },
+    {
+      "tag": "span",
+      "idx": 20,
+      "text": "Business Cards"
+    },
+    {
+      "tag": "span",
+      "idx": 21,
+      "text": "Additional Requirements"
+    },
+    {
+      "tag": "span",
+      "idx": 22,
+      "text": "Need logo + menu QR on the stand…"
+    },
+    {
+      "tag": "span",
+      "idx": 23,
+      "text": "Continue to WhatsApp"
+    },
+    {
+      "tag": "span",
+      "idx": 24,
+      "text": "Opens WhatsApp with your enquiry pre-filled. You press send."
+    },
+    {
+      "tag": "span",
+      "idx": 25,
+      "text": "RevoDigital"
+    },
+    {
+      "tag": "span",
+      "idx": 26,
+      "text": "Make Every Connection Count."
+    },
+    {
+      "tag": "span",
+      "idx": 27,
+      "text": "PRODUCTS"
+    },
+    {
+      "tag": "span",
+      "idx": 28,
+      "text": "Smart Review Stand"
+    },
+    {
+      "tag": "span",
+      "idx": 29,
+      "text": "Salesperson Review Card"
+    },
+    {
+      "tag": "span",
+      "idx": 30,
+      "text": "Personal Business Cards"
+    },
+    {
+      "tag": "span",
+      "idx": 31,
+      "text": "AI Review Assist"
+    },
+    {
+      "tag": "span",
+      "idx": 32,
+      "text": "COMPANY"
+    },
+    {
+      "tag": "span",
+      "idx": 33,
+      "text": "Customization"
+    },
+    {
+      "tag": "span",
+      "idx": 34,
+      "text": "How It Works"
+    },
+    {
+      "tag": "span",
+      "idx": 35,
+      "text": "FAQ"
+    },
+    {
+      "tag": "span",
+      "idx": 36,
+      "text": "Get a Quote"
+    },
+    {
+      "tag": "span",
+      "idx": 37,
+      "text": "CONTACT"
+    },
+    {
+      "tag": "span",
+      "idx": 38,
+      "text": "hello@revodigital.in"
+    },
+    {
+      "tag": "span",
+      "idx": 39,
+      "text": "WhatsApp Us"
+    },
+    {
+      "tag": "span",
+      "idx": 40,
+      "text": "© 2026 RevoDigital. All rights reserved."
+    },
+    {
+      "tag": "span",
+      "idx": 41,
+      "text": "Smart contactless experiences for modern businesses."
+    }
+  ]
+}

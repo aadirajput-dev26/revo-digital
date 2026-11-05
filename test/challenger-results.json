@@ -1,0 +1,137 @@
+{
+  "passed": 24,
+  "failed": 0,
+  "findings": [
+    {
+      "id": "BUG-CHALLENGE-01",
+      "severity": "MEDIUM",
+      "title": "Category Precedence Inversion in FaqFooter handleEnquirySubmit",
+      "observation": "In FaqFooter.tsx line 86: `*Category:* ${formData.category || selectedCategory}`. When a user selects a Business Card variant from the gallery, EnquiryContext updates selectedCategory to \"Business Cards\". However, because formData.category was initialized to \"Review Solutions\" and is truthy, formData.category takes precedence over selectedCategory in the submitted message.",
+      "logicChain": "1. FaqFooter initializes formData.category with default \"Review Solutions\"\n2. User clicks \"Onyx Black\" card in GalleryCustom.tsx\n3. handleSelect calls setSelectedVariant(\"Onyx Black\", \"Business Cards\")\n4. Context updates selectedCategory to \"Business Cards\"\n5. User submits form without clicking category tab buttons\n6. Expression `formData.category || selectedCategory` evaluates to \"Review Solutions\"\n7. Result: WhatsApp enquiry says \"*Category:* Review Solutions\" with \"*Selected Variant:* Onyx Black\".",
+      "impact": "Submitted WhatsApp payload reports \"Review Solutions\" category for business card products unless the user explicitly clicks the \"Business Cards\" category pill on the form.",
+      "recommendation": "Update line 86 in FaqFooter.tsx to `${selectedCategory || formData.category}` matching the pattern used for selectedVariant line 85 `${selectedVariant || formData.selectedVariant}`, or sync formData.category via useEffect when selectedCategory changes."
+    }
+  ],
+  "tests": [
+    {
+      "name": "Hero Initial State: default index 2 (\"03 · Tap\"), 50% progress, paused",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Hero 6 Timeline Buttons (01-06): correct step selection and exact progress % [17%, 33%, 50%, 67%, 83%, 100%]",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Hero Play/Pause: toggle starts playback, advances modulo 6 in continuous loop",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Hero Manual Interruption: selecting button stops automated playback immediately",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Hero Boundary Robustness: ignores negative or out-of-range step indices",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "AI Simulator Initial State: 5 stars, default oat latte draft, view mode",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "AI Star Rating Mapping: 1-5 stars correctly switch sentiment copy dynamically",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "AI Draft Editor: edit toggle enables textarea editing and persists custom user text",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "AI Continue to Google: triggers Copied state and resets after timeout",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "FAQ Initial State: first item (\"faq-1\") is open by default, all others closed",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "FAQ Toggle Open: clicking active item (\"faq-1\") collapses it (all closed)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "FAQ Multi-Open Support: clicking second item opens it alongside first item",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "FAQ Full Traversal: successfully opens all 9 items and collapses all 9 cleanly",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "WhatsApp URL: valid HTTPS URL targeting wa.me/919876543210 with encoded text parameter",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "WhatsApp Payload Integrity: handles special characters (&, #, quotes, brackets, spaces, newlines) safely",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "WhatsApp Optional Fallbacks: blank business name and requirements default cleanly",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Enquiry Form Validation: rejects empty/whitespace required fields with correct error feedback",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Enquiry State Analysis: identified Category precedence inversion in FaqFooter line 86",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Live HTTP: Server responds with status 200 OK",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Live DOM: Renders all 6 Hero timeline buttons (01-06) with correct labels",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Live DOM: Renders Hero play/pause timeline button with proper ARIA label",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Live DOM: Renders AI Review Assist phone mockup with 5-star rating buttons",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Live DOM: Renders FAQ section with authoritative accordion questions",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Live DOM: Renders Universal Enquiry form with all fields and WhatsApp CTA",
+      "status": "PASS",
+      "details": ""
+    }
+  ]
+}

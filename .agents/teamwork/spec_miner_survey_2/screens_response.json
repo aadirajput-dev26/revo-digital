@@ -1,0 +1,73 @@
+[
+  {
+    "result": {
+      "data": {
+        "json": [
+          {
+            "id": "f0cDVHCexB-k/screens/homepage-desktop.jsx",
+            "screenSize": "desktop",
+            "x": null,
+            "y": null,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "screen"
+          },
+          {
+            "id": "f0cDVHCexB-k/components/FaqFooter.jsx",
+            "screenSize": null,
+            "x": 1494,
+            "y": -84,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "component"
+          },
+          {
+            "id": "f0cDVHCexB-k/components/GalleryCustom.jsx",
+            "screenSize": null,
+            "x": 1504,
+            "y": 1997,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "component"
+          },
+          {
+            "id": "f0cDVHCexB-k/components/Hero.jsx",
+            "screenSize": null,
+            "x": 1518,
+            "y": 3895,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "component"
+          },
+          {
+            "id": "f0cDVHCexB-k/components/HowAiWho.jsx",
+            "screenSize": null,
+            "x": 1536,
+            "y": 4773,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "component"
+          },
+          {
+            "id": "f0cDVHCexB-k/components/Navbar.jsx",
+            "screenSize": null,
+            "x": 1893,
+            "y": 8770,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "component"
+          },
+          {
+            "id": "f0cDVHCexB-k/components/ProductsSection.jsx",
+            "screenSize": null,
+            "x": 1639,
+            "y": 7231,
+            "themeId": null,
+            "hasActiveStructure": "79fee396636ef5ee32187128916049c70477585300e9544095e678fb383e93e8",
+            "type": "component"
+          }
+        ]
+      }
+    }
+  }
+]
